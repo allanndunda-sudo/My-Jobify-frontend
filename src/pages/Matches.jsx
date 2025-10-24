@@ -12,7 +12,7 @@ const Matches = () => {
       setProfile(savedProfile);
 
       // Fetch jobs from db.json
-      fetch("http://localhost:3000/jobs")
+      fetch("https://jobify-backend-t02g.onrender.com/jobs")
         .then((res) => res.json())
         .then((data) => {
           const matches = data.filter((job) =>

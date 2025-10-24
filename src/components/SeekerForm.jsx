@@ -13,7 +13,7 @@ const SeekerForm = () => {
   const [currentSkill, setCurrentSkill] = useState("");
   const [errors, setErrors] = useState({});
 
-  // ✅ Validate form fields
+  // Validate form fields
   const validateForm = () => {
     const newErrors = {};
 
@@ -30,7 +30,7 @@ const SeekerForm = () => {
     return Object.keys(newErrors).length === 0;
   };
 
-  // ✅ Add a skill
+  //  Add a skill
   const handleAddSkill = () => {
     if (currentSkill.trim() && !profile.skills.includes(currentSkill.trim())) {
       setProfile((prev) => ({
@@ -41,7 +41,7 @@ const SeekerForm = () => {
     }
   };
 
-  // ✅ Remove a skill
+  // Remove a skill
   const handleRemoveSkill = (skillToRemove) => {
     setProfile((prev) => ({
       ...prev,
@@ -49,7 +49,7 @@ const SeekerForm = () => {
     }));
   };
 
-  // ✅ Submit handler
+  // Submit handler
   const handleSubmit = (e) => {
     e.preventDefault();
 
