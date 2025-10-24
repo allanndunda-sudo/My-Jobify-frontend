@@ -21,7 +21,7 @@ const MatchResults = ({ profile, matchedJobs }) => {
         </div>
       </div>
 
-      <h3 className="text-xl font-semibold">Matched Jobs</h3>
+      <h3 className="text-xl font-semibold text-gray-800">Matched Jobs</h3>
       <JobList jobs={matchedJobs} showMatch={true} />
     </div>
   );
