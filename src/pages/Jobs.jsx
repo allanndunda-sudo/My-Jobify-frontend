@@ -8,7 +8,7 @@ const Jobs = () => {
 
 
   useEffect(() => {
-    fetch("https://jobify-backend-87t3.onrender.com/jobs")
+    fetch("https://jobify-backend-t02g.onrender.com/jobs")
       .then((res) => res.json())
       .then((data) => setJobs(data))
       .catch((err) => console.error("Error fetching jobs:", err));
