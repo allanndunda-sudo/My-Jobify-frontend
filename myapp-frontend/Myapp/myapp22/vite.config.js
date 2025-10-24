@@ -8,3 +8,4 @@ export default defineConfig({
     tailwindcss()
   ],
 })
+/home/allan-muuo/Documents/My_JobifyFrontend/myapp-frontend/Myapp
