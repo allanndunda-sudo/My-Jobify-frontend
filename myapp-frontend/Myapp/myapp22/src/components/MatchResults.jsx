@@ -1,4 +1,5 @@
-import JobList from "./JobList";
+import JobList from "./JobList"; 
+// Display user profile in match job listing
 
 const MatchResults = ({ profile, matchedJobs }) => {
   return (
