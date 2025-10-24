@@ -1,0 +1,292 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "TechCorp",
+      "location": "Nairobi",
+      "experience": 2,
+      "education": "Bachelor's",
+      "skills": ["React", "JavaScript", "Tailwind"]
+    },
+    {
+      "id": 2,
+      "title": "Backend Engineer",
+      "company": "CodeWorks",
+      "location": "Remote",
+      "experience": 3,
+      "education": "Bachelor's",
+      "skills": ["Node.js", "Express", "MongoDB"]
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "company": "InnovateX",
+      "location": "Mombasa",
+      "experience": 4,
+      "education": "Bachelor's",
+      "skills": ["React", "Node.js", "PostgreSQL"]
+    },
+    {
+      "id": 4,
+      "title": "Mobile App Developer",
+      "company": "Appify",
+      "location": "Nairobi",
+      "experience": 2,
+      "education": "Diploma",
+      "skills": ["React Native", "Expo", "JavaScript"]
+    },
+    {
+      "id": 5,
+      "title": "Data Analyst",
+      "company": "Insight Labs",
+      "location": "Remote",
+      "experience": 3,
+      "education": "Bachelor's",
+      "skills": ["Python", "Pandas", "SQL"]
+    },
+    {
+      "id": 6,
+      "title": "UI/UX Designer",
+      "company": "PixelWorks",
+      "location": "Kisumu",
+      "experience": 2,
+      "education": "Bachelor's",
+      "skills": ["Figma", "Adobe XD", "Prototyping"]
+    },
+    {
+      "id": 7,
+      "title": "DevOps Engineer",
+      "company": "CloudTech",
+      "location": "Nairobi",
+      "experience": 5,
+      "education": "Bachelor's",
+      "skills": ["AWS", "Docker", "Kubernetes"]
+    },
+    {
+      "id": 8,
+      "title": "Cybersecurity Specialist",
+      "company": "SecureNet",
+      "location": "Remote",
+      "experience": 4,
+      "education": "Bachelor's",
+      "skills": ["Ethical Hacking", "Firewalls", "Penetration Testing"]
+    },
+    {
+      "id": 9,
+      "title": "Machine Learning Engineer",
+      "company": "AI Solutions",
+      "location": "Nairobi",
+      "experience": 3,
+      "education": "Master's",
+      "skills": ["Python", "TensorFlow", "Scikit-learn"]
+    },
+    {
+      "id": 10,
+      "title": "Systems Administrator",
+      "company": "DataGrid",
+      "location": "Eldoret",
+      "experience": 3,
+      "education": "Bachelor's",
+      "skills": ["Linux", "Networking", "Automation"]
+    },
+    {
+      "id": 11,
+      "title": "Software Tester",
+      "company": "BugFree Ltd",
+      "location": "Remote",
+      "experience": 2,
+      "education": "Diploma",
+      "skills": ["Selenium", "Cypress", "Jest"]
+    },
+    {
+      "id": 12,
+      "title": "Cloud Architect",
+      "company": "Nimbus",
+      "location": "Nairobi",
+      "experience": 6,
+      "education": "Bachelor's",
+      "skills": ["AWS", "Azure", "Terraform"]
+    },
+    {
+      "id": 13,
+      "title": "Product Manager",
+      "company": "VisionTech",
+      "location": "Nakuru",
+      "experience": 5,
+      "education": "Bachelor's",
+      "skills": ["Agile", "Scrum", "JIRA"]
+    },
+    {
+      "id": 14,
+      "title": "QA Engineer",
+      "company": "Testify",
+      "location": "Remote",
+      "experience": 3,
+      "education": "Bachelor's",
+      "skills": ["Manual Testing", "Cypress", "CI/CD"]
+    },
+    {
+      "id": 15,
+      "title": "Database Administrator",
+      "company": "DataCore",
+      "location": "Nairobi",
+      "experience": 4,
+      "education": "Bachelor's",
+      "skills": ["MySQL", "Oracle", "PostgreSQL"]
+    },
+    {
+      "id": 16,
+      "title": "Game Developer",
+      "company": "PlayForge",
+      "location": "Remote",
+      "experience": 3,
+      "education": "Bachelor's",
+      "skills": ["Unity", "C#", "Blender"]
+    },
+    {
+      "id": 17,
+      "title": "Network Engineer",
+      "company": "ConnectX",
+      "location": "Nairobi",
+      "experience": 4,
+      "education": "Bachelor's",
+      "skills": ["Cisco", "LAN/WAN", "Security"]
+    },
+    {
+      "id": 18,
+      "title": "Technical Support Engineer",
+      "company": "HelpDeskPro",
+      "location": "Mombasa",
+      "experience": 1,
+      "education": "Diploma",
+      "skills": ["Troubleshooting", "Networking", "Customer Support"]
+    },
+    {
+      "id": 19,
+      "title": "AI Researcher",
+      "company": "DeepThink",
+      "location": "Remote",
+      "experience": 5,
+      "education": "Master's",
+      "skills": ["Python", "PyTorch", "NLP"]
+    },
+    {
+      "id": 20,
+      "title": "Blockchain Developer",
+      "company": "ChainBase",
+      "location": "Nairobi",
+      "experience": 4,
+      "education": "Bachelor's",
+      "skills": ["Solidity", "Ethereum", "Web3.js"]
+    },
+    {
+      "id": 21,
+      "title": "IT Project Manager",
+      "company": "NextGen IT",
+      "location": "Remote",
+      "experience": 5,
+      "education": "Bachelor's",
+      "skills": ["Scrum", "Agile", "Leadership"]
+    },
+    {
+      "id": 22,
+      "title": "Web Developer",
+      "company": "SiteCraft",
+      "location": "Nairobi",
+      "experience": 2,
+      "education": "Diploma",
+      "skills": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": 23,
+      "title": "Mobile Game Developer",
+      "company": "FunLabs",
+      "location": "Remote",
+      "experience": 3,
+      "education": "Bachelor's",
+      "skills": ["Unity", "C#", "3D Modeling"]
+    },
+    {
+      "id": 24,
+      "title": "IT Support Technician",
+      "company": "FixIT",
+      "location": "Nakuru",
+      "experience": 1,
+      "education": "Diploma",
+      "skills": ["Hardware", "Networking", "Windows"]
+    },
+    {
+      "id": 25,
+      "title": "API Developer",
+      "company": "LinkHub",
+      "location": "Nairobi",
+      "experience": 3,
+      "education": "Bachelor's",
+      "skills": ["Node.js", "REST", "GraphQL"]
+    },
+    {
+      "id": 26,
+      "title": "Data Engineer",
+      "company": "BigData Africa",
+      "location": "Remote",
+      "experience": 4,
+      "education": "Bachelor's",
+      "skills": ["Python", "Spark", "ETL"]
+    },
+    {
+      "id": 27,
+      "title": "Frontend Engineer",
+      "company": "CodeVerse",
+      "location": "Kisumu",
+      "experience": 3,
+      "education": "Bachelor's",
+      "skills": ["Vue.js", "TypeScript", "Tailwind"]
+    },
+    {
+      "id": 28,
+      "title": "IT Consultant",
+      "company": "BrightMind",
+      "location": "Nairobi",
+      "experience": 6,
+      "education": "Bachelor's",
+      "skills": ["Business Analysis", "Networking", "System Design"]
+    },
+    {
+      "id": 29,
+      "title": "Technical Writer",
+      "company": "DocuTech",
+      "location": "Remote",
+      "experience": 2,
+      "education": "Bachelor's",
+      "skills": ["Documentation", "Markdown", "API Writing"]
+    },
+    {
+      "id": 30,
+      "title": "Cloud Support Associate",
+      "company": "SkyServe",
+      "location": "Nairobi",
+      "experience": 2,
+      "education": "Bachelor's",
+      "skills": ["AWS", "Linux", "Networking"]
+    },
+    {
+      "id": 31,
+      "title": "AI Prompt Engineer",
+      "company": "NeuraAI",
+      "location": "Remote",
+      "experience": 2,
+      "education": "Bachelor's",
+      "skills": ["Prompt Design", "LLMs", "Python"]
+    },
+    {
+      "id": 32,
+      "title": "Software Engineer Intern",
+      "company": "TechStart",
+      "location": "Nairobi",
+      "experience": 0,
+      "education": "Bachelor's",
+      "skills": ["JavaScript", "React", "Git"]
+    }
+  ]
+}
