@@ -4,7 +4,7 @@ const Home = () => {
   const navigate = useNavigate();
 
   return (
-    <section className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 via-white to-blue-100 text-center px-4">
+    <section className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 via-white to-blue-800 text-center px-4">
      
       <div className="max-w-2xl space-y-6 animate-fadeIn">
         <h1 className="text-5xl font-extrabold text-blue-700 drop-shadow-sm">
