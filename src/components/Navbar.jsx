@@ -10,7 +10,7 @@ const Navbar = () => {
   ];
 
   return (
-    <nav className="border-b bg-white sticky top-0 z-50">
+    <nav className="border-b bg-gray-300 sticky top-0 z-50">
       <div className="container mx-auto px-4 flex justify-between h-16 items-center">
         <Link to="/" className="font-bold text-xl text-blue-600">Jobify</Link>
         <div className="flex gap-3">
