@@ -12,7 +12,7 @@ const Matches = () => {
       setProfile(savedProfile);
 
       // Fetch jobs from db.json
-      fetch("https://jobify-backend-t02g.onrender.com/jobs")
+      fetch("https://json-server-vercel-a6ea.vercel.app/jobs")
         .then((res) => res.json())
         .then((data) => {
           const matches = data.filter((job) =>
