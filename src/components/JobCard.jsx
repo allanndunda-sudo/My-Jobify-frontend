@@ -16,7 +16,7 @@ const JobCard = ({ job, isMatched }) => {
         ))}
       </div>
       {isMatched && (
-        <p className="text-green-600 font-medium mt-3">✅ Matched to your skills!</p>
+        <p className="text-green-600 font-medium mt-3"> Matched to your skills!</p>
       )}
     </div>
   );

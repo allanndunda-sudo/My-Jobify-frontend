@@ -8,7 +8,7 @@ const Jobs = () => {
 
 
   useEffect(() => {
-    fetch("https://json-server-vercel-a6ea.vercel.app/jobs")
+    fetch("https://jobify-backend-t02g.onrender.com/jobs")
       .then((res) => res.json())
       .then((data) => setJobs(data))
       .catch((err) => console.error("Error fetching jobs:", err));
